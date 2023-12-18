@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou Matheus Nogueira Moreira 🥑.
 
 ## Estatísticas GitHub
 
-[![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true)](https://github.com/seu-username)
+[![Mat2605's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true)](https://github.com/seu-username)
 
 ## Linguagens mais utilizadas
 
