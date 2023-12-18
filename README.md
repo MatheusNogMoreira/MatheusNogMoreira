@@ -9,9 +9,10 @@ Bem-vindo ao meu perfil do GitHub! Eu sou Matheus Nogueira Moreira 🥑.
 
 ## Estatísticas GitHub
 
-[![Mat2605's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true)](https://github.com/seu-username)
+[![Mat2605's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mat2605&show_icons=true&count_private=true)](https://github.com/Mat2605)
 
 ## Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)](https://github.com/seu-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2605&layout=compact)](https://github.com/Mat2605)
+
 
