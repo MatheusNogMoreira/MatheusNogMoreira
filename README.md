@@ -8,12 +8,5 @@ Bem-vindo ao meu perfil do GitHub! Eu sou Matheus Nogueira Moreira 🥑.
 - ⭐ Alguns dos meus trabalhos práticos estão disponíveis aqui.
 - ⚓ Minha outra Conta: MatheusNogueiraUFV. 
 
-## Estatísticas GitHub
-
-[![Mat2605's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mat2605&show_icons=true&count_private=true)](https://github.com/Mat2605)
-
-## Linguagens mais utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2605&layout=compact)](https://github.com/Mat2605)
 
 
