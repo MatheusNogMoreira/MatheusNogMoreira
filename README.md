@@ -43,12 +43,9 @@
 
 ---
 
-![snake gif](https://github.com/matheusnogueira26/matheusnogueira26/blob/output/github-contribution-grid-snake.svg)
-
-
 📊 **Estatísticas GitHub**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnogueira26&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnogueira26&layout=compact&hide_border=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnogueira26&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnogueira26&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
 </p>
