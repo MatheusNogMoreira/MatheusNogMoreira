@@ -40,9 +40,3 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusnogueira26&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
-
-</p>
