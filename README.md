@@ -1,11 +1,10 @@
 <h1 align="center">Olá! 👋 Eu sou o Matheus Nogueira Moreira</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D747&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFV;Apaixonado+por+c%C3%B3digo%2C+tecnologia+e+aprendizado!" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 **Status Acadêmico**
+🚀 **Status**
 
 - 🐛 Cursando Ciência da Computação na **Universidade Federal de Viçosa (UFV)**
 - ⭐ Compartilho aqui alguns dos meus projetos e trabalhos práticos da graduação
@@ -15,14 +14,17 @@
 💻 **Tecnologias e Ferramentas**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
 ---
 
 📫 **Entre em contato comigo**
@@ -41,11 +43,8 @@
 
 ---
 
-🐍 **Snake Game no GitHub Stats**
-
 ![snake gif](https://github.com/matheusnogueira26/matheusnogueira26/blob/output/github-contribution-grid-snake.svg)
 
----
 
 📊 **Estatísticas GitHub**
 
