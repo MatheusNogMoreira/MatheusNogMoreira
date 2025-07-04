@@ -41,9 +41,6 @@
   </a>
 </p>
 
----
-
-📊 **Estatísticas GitHub**
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusnogueira26&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
