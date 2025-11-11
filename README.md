@@ -7,6 +7,7 @@
 🚀 **Status**
 
 - 🐛 Cursando Ciência da Computação na **Universidade Federal de Viçosa (UFV)**
+- 👾 Atuando como desenvolvedor na MGDATA.
 - ⭐ Compartilho aqui alguns dos meus projetos e trabalhos práticos da graduação
 
 ---
