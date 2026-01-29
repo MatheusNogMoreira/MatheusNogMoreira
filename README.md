@@ -6,7 +6,8 @@
 
 🚀 **Status**
 
-- 🐛 Formado Ciência da Computação na **Universidade Federal de Viçosa (UFV)**
+- 🐛 Formado em Ciência da Computação na **Universidade Federal de Viçosa (UFV)**
+- ⭐Cursando o Mestrado em Ciência da Computação na **Universidade Federal de Viçosa (UFV)**
 - 👾 Atuando como desenvolvedor na NTTDATA.
 
 ---
